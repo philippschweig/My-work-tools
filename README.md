@@ -2,7 +2,8 @@
 
 ## On Windows
 
-comes later
+* timetray (https://github.com/otacke/timetray)
+* Active Directory Explorer (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 
 ## On macOS
 
@@ -22,6 +23,7 @@ comes later
 * KeyStore Explorer (https://keystore-explorer.org / https://github.com/kaikramer/keystore-explorer)
 * Paintbrush (https://paintbrush.sourceforge.io)
 * boram (https://github.com/Kagami/boram)
+* libimobiledevice (https://www.libimobiledevice.org / https://github.com/libimobiledevice/libimobiledevice)
 
 ## On Windows & macOS
 
