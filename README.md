@@ -24,6 +24,7 @@
 * Paintbrush (https://paintbrush.sourceforge.io)
 * boram (https://github.com/Kagami/boram)
 * libimobiledevice (https://www.libimobiledevice.org / https://github.com/libimobiledevice/libimobiledevice)
+* Android File Transfer (https://www.android.com/filetransfer)
 
 ## On Windows & macOS
 
