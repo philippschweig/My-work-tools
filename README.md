@@ -7,6 +7,8 @@
 
 ## On macOS
 
+* accessmenubarapps (needed, if status symbols are much more than can be displayed) (http://www.ortisoft.de/en/accessmenubarapps)
+* BalanceLock (https://www.tunabellysoftware.com/balance_lock/)
 * Spectacle (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
 * Numi (https://numi.app)
 * Alarm Clock 2 (https://github.com/n0shake/Clocker)
@@ -26,7 +28,6 @@
 * libimobiledevice (https://www.libimobiledevice.org / https://github.com/libimobiledevice/libimobiledevice)
 * Android File Transfer (https://www.android.com/filetransfer)
 * iSimulator (https://github.com/wigl/iSimulator)
-* accessmenubarapps (needed, if status symbols are much more than can be displayed) (http://www.ortisoft.de/en/accessmenubarapps)
 
 ## On Windows & macOS
 
