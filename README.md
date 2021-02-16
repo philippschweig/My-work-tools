@@ -28,6 +28,7 @@
 * libimobiledevice (https://www.libimobiledevice.org / https://github.com/libimobiledevice/libimobiledevice)
 * Android File Transfer (https://www.android.com/filetransfer)
 * iSimulator (https://github.com/wigl/iSimulator)
+* SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
 
 ## On Windows & macOS
 
