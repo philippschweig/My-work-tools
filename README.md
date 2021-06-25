@@ -1,4 +1,4 @@
-# My Work Tools
+# My work tools and helper
 
 ## On Windows
 
@@ -6,6 +6,8 @@
 * Active Directory Explorer (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
 
 ## On macOS
+
+### Tools
 
 * accessmenubarapps (needed, if status symbols are much more than can be displayed) (http://www.ortisoft.de/en/accessmenubarapps)
 * BalanceLock (https://www.tunabellysoftware.com/balance_lock/)
