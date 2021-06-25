@@ -30,6 +30,10 @@
 * iSimulator (https://github.com/wigl/iSimulator)
 * SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
 
+### Online helper
+
+* A launchd.plist generator (http://launched.zerowidth.com/)
+
 ## On Windows & macOS
 
 * Fork (https://git-fork.com)
