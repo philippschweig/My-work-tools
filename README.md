@@ -32,6 +32,7 @@
 * iSimulator (https://github.com/wigl/iSimulator)
 * SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
 * SoundSource (https://rogueamoeba.com/soundsource)
+* Scroll-Reverser (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
 
 ### Online helper
 
