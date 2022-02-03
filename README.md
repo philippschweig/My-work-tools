@@ -44,3 +44,4 @@
 * Sourcetree (https://www.sourcetreeapp.com)
 * Visual Studio Code (https://code.visualstudio.com)
 * X - Certificate and Key management (https://hohnstaedt.de/xca / https://github.com/chris2511/xca)
+* Proxyman (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
