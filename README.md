@@ -4,6 +4,7 @@
 
 * timetray (https://github.com/otacke/timetray)
 * Active Directory Explorer (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
+* WinFsp / Windows File System Proxy (http://www.secfs.net/winfsp / https://github.com/billziss-gh/winfsp)
 
 ## On macOS
 
