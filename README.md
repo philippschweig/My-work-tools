@@ -34,6 +34,7 @@
 * SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
 * SoundSource (https://rogueamoeba.com/soundsource)
 * Scroll-Reverser (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
+* Platypus (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
 
 ### Online helper
 
