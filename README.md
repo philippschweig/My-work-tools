@@ -35,6 +35,7 @@
 * SoundSource (https://rogueamoeba.com/soundsource)
 * Scroll-Reverser (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
 * Platypus (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
+* Frum (https://mac.install.guide/ruby/14.html / https://github.com/TaKO8Ki/frum) #RubyVersionManager
 
 ### Online helper
 
