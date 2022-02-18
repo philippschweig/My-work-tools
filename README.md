@@ -8,9 +8,10 @@
 
 ## On macOS
 
-### Tools
+### Improve usability
 
 * accessmenubarapps (needed, if status symbols are much more than can be displayed) (http://www.ortisoft.de/en/accessmenubarapps)
+* Dock icon spacer (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
 * BalanceLock (https://www.tunabellysoftware.com/balance_lock/)
 * Spectacle (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
 * Numi (https://numi.app)
