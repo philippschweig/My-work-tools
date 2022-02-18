@@ -2,9 +2,12 @@
 
 ## Miscellaneous
 
-* Debuggex (https://www.debuggex.com) #RegularExpressionsVisualizer
+* Debuggex (https://www.debuggex.com)
+    - Visualize regular expression
 * crontab guru (https://crontab.guru)
+    - The quick and simple editor for cron schedule expressions
 * Chmod Calculator (https://chmodcommand.com)
+    - Chmod calculator allows you to quickly generate permissions in numerical and symbolic formats.
 
 ## On Windows & macOS
 
