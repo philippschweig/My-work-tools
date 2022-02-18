@@ -1,5 +1,7 @@
 # My work tools and helper
 
+[[_TOC_]]
+
 ## Miscellaneous
 
 * Debuggex (https://www.debuggex.com)
