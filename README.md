@@ -14,10 +14,15 @@
 ## On Windows & macOS
 
 * **Fork** (https://git-fork.com)
+    - Fork - a git client for Mac and Windows
 * **Sourcetree** (https://www.sourcetreeapp.com)
+    - A free Git client for Windows and Mac
 * **Visual Studio Code** (https://code.visualstudio.com)
+    - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
 * **X - Certificate and Key management** (https://hohnstaedt.de/xca / https://github.com/chris2511/xca)
+    - This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smart-cards and CRLs.
 * **Proxyman** (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
+    - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android
 
 ## On macOS
 
@@ -26,13 +31,16 @@
 * **accessmenubarapps** (http://www.ortisoft.de/en/accessmenubarapps)
     - needed, if status symbols are much more than can be displayed
 * **Dock icon spacer** (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
+    - macOS Hints: Dock Fine-Tuning
 * **Scroll-Reverser** (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
     - Reverses the direction of macOS scrolling, with independent settings for trackpads and mice
     - Alternatives:
         * https://github.com/Caldis/Mos
         * https://github.com/ther0n/UnnaturalScrollWheels
 * **BalanceLock** (https://www.tunabellysoftware.com/balance_lock/)
+    - Prevents audio balance from drifting left or right
 * **Spectacle** (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
+    - Spectacle allows you to organize your windows without using a mouse.
 * **Numi** (https://numi.app / https://github.com/nikolaeu/numi)
     - Beautiful calculator app for Mac
 * **Alarm Clock 2** (https://abhishekbanthia.com/clocker / https://github.com/n0shake/Clocker)
@@ -42,18 +50,25 @@
 * **SoundSource** (https://rogueamoeba.com/soundsource)
     - Get truly powerful control over all the audio on your Mac!
 * **GIF Brewery** (https://gfycat.com/gifbrewery)
+    - Creating fine-crafted GIFs for Mac users worldwide
 * **Keka** (https://www.keka.io)
     - the macOS file archiver
 * **OmniDiskSweeper** (https://www.omnigroup.com/more)
+    - Quickly find large, unwanted files and sweep them into the trash
 * **Angry IP Scanner** (https://angryip.org / https://github.com/angryip/ipscan)
+    - Angry IP Scanner - fast and friendly network scanner
 * **ApplePi-Baker v2** (https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2)
+    - ApplePi-Baker is a small macOS utility that allows you to backup or restore disks. At its core, it uses the same format as produced by “dd“, a raw byte-by-byte copy of the disk – typically with the “.IMG” file extension
 * **F2Utility** (https://github.com/Jelmerro/F2Utility)
     - An easy and effective batch file rename tool
 * **KeyStore Explorer** (https://keystore-explorer.org / https://github.com/kaikramer/keystore-explorer)
     - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 * **Paintbrush** (https://paintbrush.sourceforge.io)
+    - Paintbrush is the original simple paint program for macOS.
 * **boram** (https://github.com/Kagami/boram)
+    - Cross-platform graphical WebM converter
 * **Android File Transfer** (https://www.android.com/filetransfer)
+    - Browse and transfer files between your Mac computer and your Android device
 * **SuspiciousPackage** (https://www.mothersruin.com/software/SuspiciousPackage)
     - An Application for Inspecting macOS Installer Packages
 * **Platypus** (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
@@ -61,6 +76,7 @@
 
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
+    - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 * **DB Browser for SQLite** (https://sqlitebrowser.org / https://github.com/sqlitebrowser/sqlitebrowser)
     - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 * **FastoNoSQL** (https://fastonosql.com / https://github.com/fastogt/fastonosql)
@@ -82,5 +98,8 @@
 ## On Windows
 
 * **timetray** (https://github.com/otacke/timetray)
+    - A tiny Java program that shows the current calendar week in a system tray
 * **Active Directory Explorer** (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
+    - Active Directory Explorer (AD Explorer) is an advanced Active Directory (AD) viewer and editor. You
 * **WinFsp / Windows File System Proxy** (http://www.secfs.net/winfsp / https://github.com/billziss-gh/winfsp)
+    - WinFsp is a set of software components for Windows computers that allows the creation of user mode file systems. In this sense it is similar to FUSE (Filesystem in Userspace), which provides the same functionality on UNIX-like computers.
