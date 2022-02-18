@@ -35,9 +35,12 @@
 * Spectacle (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
 * Numi (https://numi.app / https://github.com/nikolaeu/numi)
     - Beautiful calculator app for Mac
-* Alarm Clock 2 (https://github.com/n0shake/Clocker)
+* Alarm Clock 2 (https://abhishekbanthia.com/clocker / https://github.com/n0shake/Clocker)
+    - Clocker is an macOS menubar utility designed to help you keep track of your friends in different time zones.
 * Itsycal (https://www.mowglii.com/itsycal / https://github.com/sfsam/itsycal)
+    - Itsycal is a tiny calendar for your Mac's menu bar.
 * SoundSource (https://rogueamoeba.com/soundsource)
+    - Get truly powerful control over all the audio on your Mac!
 * GIF Brewery (https://gfycat.com/gifbrewery)
 * Keka (https://www.keka.io)
     - the macOS file archiver
@@ -45,21 +48,29 @@
 * Angry IP Scanner (https://angryip.org / https://github.com/angryip/ipscan)
 * ApplePi-Baker v2 (https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2)
 * F2Utility (https://github.com/Jelmerro/F2Utility)
+    - An easy and effective batch file rename tool
 * KeyStore Explorer (https://keystore-explorer.org / https://github.com/kaikramer/keystore-explorer)
+    - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
 * Paintbrush (https://paintbrush.sourceforge.io)
 * boram (https://github.com/Kagami/boram)
 * Android File Transfer (https://www.android.com/filetransfer)
 * SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
+    - An Application for Inspecting macOS Installer Packages
 * Platypus (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
     - Create native Mac applications from command line scripts.
 
 ### Development
 * Pusher (https://github.com/noodlewerk/NWPusher)
 * DB Browser for SQLite (https://sqlitebrowser.org / https://github.com/sqlitebrowser/sqlitebrowser)
+    - DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 * FastoNoSQL (https://fastonosql.com / https://github.com/fastogt/fastonosql)
+    - FastoNoSQL is a crossplatform Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika, Dynomite, KeyDB GUI management tool.
 * libimobiledevice (https://www.libimobiledevice.org / https://github.com/libimobiledevice/libimobiledevice)
+    - A cross-platform protocol library to communicate with iOS devices
 * iSimulator (https://github.com/wigl/iSimulator)
-* Frum (https://mac.install.guide/ruby/14.html / https://github.com/TaKO8Ki/frum) #RubyVersionManager
+    - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
+* Frum (https://mac.install.guide/ruby/14.html / https://github.com/TaKO8Ki/frum)
+    - A little bit fast and modern Ruby version manager written in Rust
 
 ### Online helper
 
