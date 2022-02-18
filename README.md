@@ -90,6 +90,9 @@
 * **Flutter wrapper** (https://github.com/passsy/flutter_wrapper)
     - The Flutter Wrapper will add the Flutter SDK as a git submodule to your project. It pins the version and the channel.
     - Similar to Gradle Wrapper
+* **SSHFS** (https://github.com/libfuse/sshfs)
+    - A network filesystem client to connect to SSH servers
+    - SSHFS allows you to mount a remote filesystem using SFTP
 
 ### Online helper
 
