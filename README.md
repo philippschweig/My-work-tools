@@ -1,10 +1,18 @@
 # My work tools and helper
 
-## On Windows
+## Miscellaneous
 
-* timetray (https://github.com/otacke/timetray)
-* Active Directory Explorer (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
-* WinFsp / Windows File System Proxy (http://www.secfs.net/winfsp / https://github.com/billziss-gh/winfsp)
+* Debuggex (https://www.debuggex.com) #RegularExpressionsVisualizer
+* crontab guru (https://crontab.guru)
+* Chmod Calculator (https://chmodcommand.com)
+
+## On Windows & macOS
+
+* Fork (https://git-fork.com)
+* Sourcetree (https://www.sourcetreeapp.com)
+* Visual Studio Code (https://code.visualstudio.com)
+* X - Certificate and Key management (https://hohnstaedt.de/xca / https://github.com/chris2511/xca)
+* Proxyman (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
 
 ## On macOS
 
@@ -42,12 +50,10 @@
 
 ### Online helper
 
-* A launchd.plist generator (http://launched.zerowidth.com/)
+* A launchd.plist generator (http://launched.zerowidth.com)
 
-## On Windows & macOS
+## On Windows
 
-* Fork (https://git-fork.com)
-* Sourcetree (https://www.sourcetreeapp.com)
-* Visual Studio Code (https://code.visualstudio.com)
-* X - Certificate and Key management (https://hohnstaedt.de/xca / https://github.com/chris2511/xca)
-* Proxyman (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
+* timetray (https://github.com/otacke/timetray)
+* Active Directory Explorer (https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer)
+* WinFsp / Windows File System Proxy (http://www.secfs.net/winfsp / https://github.com/billziss-gh/winfsp)
