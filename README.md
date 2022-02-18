@@ -18,17 +18,24 @@
 
 ### Improve usability
 
-* accessmenubarapps (needed, if status symbols are much more than can be displayed) (http://www.ortisoft.de/en/accessmenubarapps)
+* accessmenubarapps (http://www.ortisoft.de/en/accessmenubarapps)
+    - needed, if status symbols are much more than can be displayed
 * Dock icon spacer (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
 * Scroll-Reverser (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
+    - Reverses the direction of macOS scrolling, with independent settings for trackpads and mice
+    - Alternatives:
+        * https://github.com/Caldis/Mos
+        * https://github.com/ther0n/UnnaturalScrollWheels
 * BalanceLock (https://www.tunabellysoftware.com/balance_lock/)
 * Spectacle (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
-* Numi (https://numi.app)
+* Numi (https://numi.app / https://github.com/nikolaeu/numi)
+    - Beautiful calculator app for Mac
 * Alarm Clock 2 (https://github.com/n0shake/Clocker)
 * Itsycal (https://www.mowglii.com/itsycal / https://github.com/sfsam/itsycal)
 * SoundSource (https://rogueamoeba.com/soundsource)
 * GIF Brewery (https://gfycat.com/gifbrewery)
 * Keka (https://www.keka.io)
+    - the macOS file archiver
 * OmniDiskSweeper (https://www.omnigroup.com/more)
 * Angry IP Scanner (https://angryip.org / https://github.com/angryip/ipscan)
 * ApplePi-Baker v2 (https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2)
@@ -39,6 +46,7 @@
 * Android File Transfer (https://www.android.com/filetransfer)
 * SuspiciousPackage (https://www.mothersruin.com/software/SuspiciousPackage)
 * Platypus (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
+    - Create native Mac applications from command line scripts.
 
 ### Development
 * Pusher (https://github.com/noodlewerk/NWPusher)
