@@ -28,7 +28,7 @@
 
 ### Improve usability
 
-* **Touch ID for sudo (https://www.ifun.de/mac-terminal-tipp-touch-id-fuer-sudo-befehle-einrichten-163052)
+* **Touch ID for sudo** (https://www.ifun.de/mac-terminal-tipp-touch-id-fuer-sudo-befehle-einrichten-163052)
 * **accessmenubarapps** (http://www.ortisoft.de/en/accessmenubarapps)
     - needed, if status symbols are much more than can be displayed
 * **Dock icon spacer** (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
