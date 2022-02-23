@@ -1,10 +1,10 @@
 # My work tools and helper
 
-<a href="https://github.com/philippschweig/my-work-tools">
+<a href="https://gitlab.com/philipp.schweig/my-work-tools">
 <img height="16" src="https://gitlab-org.gitlab.io/gitlab-svgs/favicon.ico"> GitLab repository (official)
 <a/>
 |
-<a href="https://gitlab.com/philipp.schweig/my-work-tools">
+<a href="https://github.com/philippschweig/my-work-tools">
 <img height="16" src="https://github.githubassets.com/favicons/favicon.svg"> GitHub repository (mirror)
 <a/>
 
