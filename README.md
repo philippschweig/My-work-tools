@@ -95,6 +95,9 @@
 * **SSHFS** (https://github.com/libfuse/sshfs)
     - A network filesystem client to connect to SSH servers
     - SSHFS allows you to mount a remote filesystem using SFTP
+* **UTM** (https://mac.getutm.app / https://github.com/utmapp/UTM)
+    - UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU.
+    - In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.
 
 ### Online helper
 
