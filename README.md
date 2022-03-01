@@ -28,7 +28,7 @@
 * **Sourcetree** (https://www.sourcetreeapp.com)
     - A free Git client for Windows and Mac
 * **Visual Studio Code** (https://code.visualstudio.com)
-    - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
+    - Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running, and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs, such as Visual Studio IDE.
 * **X - Certificate and Key management** (https://hohnstaedt.de/xca / https://github.com/chris2511/xca)
     - This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smart-cards and CRLs.
 * **Proxyman** (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
