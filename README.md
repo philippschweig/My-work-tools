@@ -61,6 +61,9 @@
     - Itsycal is a tiny calendar for your Mac's menu bar.
 * **SoundSource** (https://rogueamoeba.com/soundsource)
     - Get truly powerful control over all the audio on your Mac!
+    - Alternatives:
+        - https://github.com/kyleneideck/BackgroundMusic
+        - https://github.com/bitgapp/eqMac
 * **GIF Brewery** (https://gfycat.com/gifbrewery)
     - Creating fine-crafted GIFs for Mac users worldwide
 * **Keka** (https://www.keka.io)
