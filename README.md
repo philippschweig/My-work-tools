@@ -116,6 +116,7 @@
     - jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable
     - Alternatives:
         - https://github.com/shyiko/jabba
+    - Install Java: https://mkyong.com/java/how-to-install-java-on-mac-osx/#homebrew-install-a-specified-java-adoptopenjdk-on-macos
 
 ### Online helper
 
