@@ -111,6 +111,11 @@
 * **UTM** (https://mac.getutm.app / https://github.com/utmapp/UTM)
     - UTM is a full featured system emulator and virtual machine host for iOS and macOS. It is based off of QEMU.
     - In short, it allows you to run Windows, Linux, and more on your Mac, iPhone, and iPad.
+* **jenv** (https://github.com/jenv/jenv / https://www.jenv.be)
+    - jEnv - Manage your Java environment
+    - jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable
+    - Alternatives:
+        - https://github.com/shyiko/jabba
 
 ### Online helper
 
