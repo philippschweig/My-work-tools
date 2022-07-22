@@ -44,6 +44,8 @@
     - needed, if status symbols are much more than can be displayed
 * **Dock icon spacer** (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
     - macOS Hints: Dock Fine-Tuning
+    - Default size: `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
+    - Small size: `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="small-spacer-tile";}'; killall Dock`
 * **Scroll-Reverser** (https://pilotmoon.com/scrollreverser / https://github.com/pilotmoon/Scroll-Reverser)
     - Reverses the direction of macOS scrolling, with independent settings for trackpads and mice
     - Alternatives:
