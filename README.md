@@ -20,6 +20,8 @@
     - The quick and simple editor for cron schedule expressions
 * **Chmod Calculator** (https://chmodcommand.com)
     - Chmod calculator allows you to quickly generate permissions in numerical and symbolic formats.
+* **explainshell.com** (https://explainshell.com)
+    - write down a command-line to see the help text that matches each argument
 
 ## On Windows & macOS
 
