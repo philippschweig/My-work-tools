@@ -40,6 +40,7 @@
 
 ### Improve usability
 
+* **Always how Menu Bar in fullscreen mode** (https://osxdaily.com/2022/03/17/keep-menu-bar-visible-mac-full-screen)
 * **Show hidden files in Finder** (https://apple.stackexchange.com/questions/406762/keyboard-shortcut-to-show-hidden-files-on-macos-big-sur/406763#406763)
 * **Touch ID for sudo** (https://www.ifun.de/mac-terminal-tipp-touch-id-fuer-sudo-befehle-einrichten-163052)
 * **accessmenubarapps** (http://www.ortisoft.de/en/accessmenubarapps)
