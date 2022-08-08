@@ -107,6 +107,7 @@
     - iSimulator is a GUI utility to control the Simulator, and manage the app installed on the simulator.
 * **Frum** (https://mac.install.guide/ruby/14.html / https://github.com/TaKO8Ki/frum)
     - A little bit fast and modern Ruby version manager written in Rust
+    - 2022-08-08: Use `` frum install x.x.x --with-openssl-dir=`brew --prefix openssl@1.1` `` to install ruby, see https://github.com/TaKO8Ki/frum/issues/105
 * **Flutter wrapper** (https://github.com/passsy/flutter_wrapper)
     - The Flutter Wrapper will add the Flutter SDK as a git submodule to your project. It pins the version and the channel.
     - Similar to Gradle Wrapper
