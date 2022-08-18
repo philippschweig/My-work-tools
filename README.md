@@ -123,6 +123,8 @@
     - Alternatives:
         - https://github.com/shyiko/jabba
     - Install Java: https://mkyong.com/java/how-to-install-java-on-mac-osx/#homebrew-install-a-specified-java-adoptopenjdk-on-macos
+* **JSON Viewer** (https://jsonviewer.app)
+    - JSON Viewer is a native Mac app to visualize, validate and format JSON datasets in a clean and snappy interface.
 
 ### Online helper
 
