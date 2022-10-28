@@ -96,6 +96,11 @@
 * **Platypus** (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
     - Create native Mac applications from command line scripts.
 
+### Useful macOS provided utilities
+* **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
+    - Allows to add PDF export filters for Preview App
+    - https://apple.stackexchange.com/questions/33702/compress-pdf-with-adjustable-ratio/33750#33750
+
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
     - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
