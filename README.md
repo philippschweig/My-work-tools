@@ -35,8 +35,13 @@
     - This application is intended for creating and managing X.509 certificates, certificate requests, RSA, DSA and EC private keys, Smart-cards and CRLs.
 * **Proxyman** (https://proxyman.io / https://github.com/ProxymanApp/Proxyman)
     - Modern and Delightful HTTP Debugging Proxy for macOS, iOS and Android
+* **Craft** (https://www.craft.do)
+    - Craft is a tool for creating beautiful documents and notes and sharing your thoughts. Everything you create in Craft can be shared with one tap. Craft supports inline markdown, backlinks, code snippets, images, videos, attaching PDF files, and rich link previews.
 
 ## On macOS
+
+* **MindNode** (https://www.mindnode.com)
+    - Visual brainstorming and mind mapping
 
 ### Improve usability
 
