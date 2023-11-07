@@ -100,6 +100,10 @@
     - An Application for Inspecting macOS Installer Packages
 * **Platypus** (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
     - Create native Mac applications from command line scripts.
+* **Velja** (https://sindresorhus.com/velja)
+    - Powerful browser picker (prompter)
+    - Alternatives:
+        - https://github.com/will-stone/browserosaurus
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
