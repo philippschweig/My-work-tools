@@ -42,6 +42,8 @@
 
 * **MindNode** (https://www.mindnode.com)
     - Visual brainstorming and mind mapping
+* **Bluesnooze** (https://github.com/odlp/bluesnooze)
+    - Sleeping Mac = Bluetooth off
 
 ### Improve usability
 
