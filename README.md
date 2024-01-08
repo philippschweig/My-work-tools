@@ -42,8 +42,6 @@
 
 * **MindNode** (https://www.mindnode.com)
     - Visual brainstorming and mind mapping
-* **Bluesnooze** (https://github.com/odlp/bluesnooze)
-    - Sleeping Mac = Bluetooth off
 
 ### Improve usability
 
@@ -106,6 +104,8 @@
     - Powerful browser picker (prompter)
     - Alternatives:
         - https://github.com/will-stone/browserosaurus
+* **Bluesnooze** (https://github.com/odlp/bluesnooze)
+    - Sleeping Mac = Bluetooth off
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
