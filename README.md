@@ -50,6 +50,8 @@
 * **Touch ID for sudo** (https://www.ifun.de/mac-terminal-tipp-touch-id-fuer-sudo-befehle-einrichten-163052)
 * **accessmenubarapps** (http://www.ortisoft.de/en/accessmenubarapps)
     - needed, if status symbols are much more than can be displayed
+    - Alternatives:
+        * https://www.macbartender.com/
 * **AltTab** (https://alt-tab-macos.netlify.app / https://github.com/lwouis/alt-tab-macos)
     - AltTab brings the power of Windows alt-tab to macOS
 * **Dock icon spacer** (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
