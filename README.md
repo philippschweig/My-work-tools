@@ -108,6 +108,10 @@
         - https://github.com/will-stone/browserosaurus
 * **Bluesnooze** (https://github.com/odlp/bluesnooze)
     - Sleeping Mac = Bluetooth off
+* **pipx** (https://pipx.pypa.io/stable / https://github.com/pypa/pipx)
+    - Install and Run Python Applications in Isolated Environments
+* **RWTS PDFwriter** (https://github.com/rodyager/RWTS-PDFwriter)
+    - An OSX print to pdf-file printer driver
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
