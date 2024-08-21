@@ -118,6 +118,10 @@
     - Allows to add PDF export filters for Preview App
     - https://apple.stackexchange.com/questions/33702/compress-pdf-with-adjustable-ratio/33750#33750
 
+### iCloud
+* **iCloud Photos Downloader** (https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+    - A command-line tool to download photos from iCloud
+
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
     - OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
