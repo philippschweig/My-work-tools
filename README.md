@@ -118,9 +118,11 @@
     - Allows to add PDF export filters for Preview App
     - https://apple.stackexchange.com/questions/33702/compress-pdf-with-adjustable-ratio/33750#33750
 
-### iCloud
+### iCloud and other Apple Apps
 * **iCloud Photos Downloader** (https://github.com/icloud-photos-downloader/icloud_photos_downloader)
     - A command-line tool to download photos from iCloud
+* **OSXPhotos** (https://github.com/RhetTbull/osxphotos)
+    - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
