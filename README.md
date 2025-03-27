@@ -112,6 +112,8 @@
     - Install and Run Python Applications in Isolated Environments
 * **RWTS PDFwriter** (https://github.com/rodyager/RWTS-PDFwriter)
     - An OSX print to pdf-file printer driver
+* **BetterDisplay** (https://github.com/waydabber/BetterDisplay)
+    - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
