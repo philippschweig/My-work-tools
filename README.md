@@ -114,6 +114,9 @@
     - An OSX print to pdf-file printer driver
 * **BetterDisplay** (https://github.com/waydabber/BetterDisplay)
     - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
+* **Karabiner-Elements** (https://karabiner-elements.pqrs.org / https://github.com/pqrs-org/Karabiner-Elements)
+    - Karabiner-Elements is a powerful key remapper for macOS.
+    - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
