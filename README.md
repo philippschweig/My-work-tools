@@ -43,9 +43,46 @@
 * **MindNode** (https://www.mindnode.com)
     - Visual brainstorming and mind mapping
 
-### Improve usability
+### Useful macOS provided utilities
+* **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
+    - Allows to add PDF export filters for Preview App
+    - https://apple.stackexchange.com/questions/33702/compress-pdf-with-adjustable-ratio/33750#33750
 
-* **Always how Menu Bar in fullscreen mode** (https://osxdaily.com/2022/03/17/keep-menu-bar-visible-mac-full-screen)
+### iCloud and other Apple Apps
+* **iCloud Photos Downloader** (https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+    - A command-line tool to download photos from iCloud
+* **OSXPhotos** (https://github.com/RhetTbull/osxphotos)
+    - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
+
+### Office tools
+* **Velja** (https://sindresorhus.com/velja)
+    - Powerful browser picker (prompter)
+    - Alternatives:
+        - https://github.com/will-stone/browserosaurus
+* **Paintbrush** (https://paintbrush.sourceforge.io)
+    - Paintbrush is the original simple paint program for macOS.
+* **boram** (https://github.com/Kagami/boram)
+    - Cross-platform graphical WebM converter
+* **Android File Transfer** (https://www.android.com/filetransfer)
+    - Browse and transfer files between your Mac computer and your Android device
+* **GIF Brewery** (https://gfycat.com/gifbrewery)
+    - Creating fine-crafted GIFs for Mac users worldwide
+* **Keka** (https://www.keka.io)
+    - the macOS file archiver
+* **OmniDiskSweeper** (https://www.omnigroup.com/more)
+    - Quickly find large, unwanted files and sweep them into the trash
+* **Numi** (https://numi.app / https://github.com/nikolaeu/numi)
+    - Beautiful calculator app for Mac
+* **Alarm Clock 2** (https://abhishekbanthia.com/clocker / https://github.com/n0shake/Clocker)
+    - Clocker is an macOS menubar utility designed to help you keep track of your friends in different time zones.
+* **Itsycal** (https://www.mowglii.com/itsycal / https://github.com/sfsam/itsycal)
+    - Itsycal is a tiny calendar for your Mac's menu bar.
+* **RWTS PDFwriter** (https://github.com/rodyager/RWTS-PDFwriter)
+    - An OSX print to pdf-file printer driver
+    - RWTS PDFwriter is an OSX 11.0+ compatible print driver that enables you to “print” your documents directly to a pdf file.
+
+### Improve usability
+* **Always show Menu Bar in fullscreen mode** (https://osxdaily.com/2022/03/17/keep-menu-bar-visible-mac-full-screen)
 * **Show hidden files in Finder** (https://apple.stackexchange.com/questions/406762/keyboard-shortcut-to-show-hidden-files-on-macos-big-sur/406763#406763)
 * **Touch ID for sudo** (https://www.ifun.de/mac-terminal-tipp-touch-id-fuer-sudo-befehle-einrichten-163052)
 * **accessmenubarapps** (http://www.ortisoft.de/en/accessmenubarapps)
@@ -67,23 +104,11 @@
     - Prevents audio balance from drifting left or right
 * **Spectacle** (https://www.spectacleapp.com / https://github.com/eczarny/spectacle)
     - Spectacle allows you to organize your windows without using a mouse.
-* **Numi** (https://numi.app / https://github.com/nikolaeu/numi)
-    - Beautiful calculator app for Mac
-* **Alarm Clock 2** (https://abhishekbanthia.com/clocker / https://github.com/n0shake/Clocker)
-    - Clocker is an macOS menubar utility designed to help you keep track of your friends in different time zones.
-* **Itsycal** (https://www.mowglii.com/itsycal / https://github.com/sfsam/itsycal)
-    - Itsycal is a tiny calendar for your Mac's menu bar.
 * **SoundSource** (https://rogueamoeba.com/soundsource)
     - Get truly powerful control over all the audio on your Mac!
     - Alternatives:
         - https://github.com/kyleneideck/BackgroundMusic
         - https://github.com/bitgapp/eqMac
-* **GIF Brewery** (https://gfycat.com/gifbrewery)
-    - Creating fine-crafted GIFs for Mac users worldwide
-* **Keka** (https://www.keka.io)
-    - the macOS file archiver
-* **OmniDiskSweeper** (https://www.omnigroup.com/more)
-    - Quickly find large, unwanted files and sweep them into the trash
 * **Angry IP Scanner** (https://angryip.org / https://github.com/angryip/ipscan)
     - Angry IP Scanner - fast and friendly network scanner
 * **ApplePi-Baker v2** (https://www.tweaking4all.com/hardware/raspberry-pi/applepi-baker-v2)
@@ -92,42 +117,19 @@
     - An easy and effective batch file rename tool
 * **KeyStore Explorer** (https://keystore-explorer.org / https://github.com/kaikramer/keystore-explorer)
     - KeyStore Explorer is a free GUI replacement for the Java command-line utilities keytool and jarsigner.
-* **Paintbrush** (https://paintbrush.sourceforge.io)
-    - Paintbrush is the original simple paint program for macOS.
-* **boram** (https://github.com/Kagami/boram)
-    - Cross-platform graphical WebM converter
-* **Android File Transfer** (https://www.android.com/filetransfer)
-    - Browse and transfer files between your Mac computer and your Android device
 * **SuspiciousPackage** (https://www.mothersruin.com/software/SuspiciousPackage)
     - An Application for Inspecting macOS Installer Packages
 * **Platypus** (https://sveinbjorn.org/platypus / https://github.com/sveinbjornt/Platypus)
     - Create native Mac applications from command line scripts.
-* **Velja** (https://sindresorhus.com/velja)
-    - Powerful browser picker (prompter)
-    - Alternatives:
-        - https://github.com/will-stone/browserosaurus
 * **Bluesnooze** (https://github.com/odlp/bluesnooze)
     - Sleeping Mac = Bluetooth off
 * **pipx** (https://pipx.pypa.io/stable / https://github.com/pypa/pipx)
     - Install and Run Python Applications in Isolated Environments
-* **RWTS PDFwriter** (https://github.com/rodyager/RWTS-PDFwriter)
-    - An OSX print to pdf-file printer driver
 * **BetterDisplay** (https://github.com/waydabber/BetterDisplay)
     - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 * **Karabiner-Elements** (https://karabiner-elements.pqrs.org / https://github.com/pqrs-org/Karabiner-Elements)
     - Karabiner-Elements is a powerful key remapper for macOS.
     - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-
-### Useful macOS provided utilities
-* **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
-    - Allows to add PDF export filters for Preview App
-    - https://apple.stackexchange.com/questions/33702/compress-pdf-with-adjustable-ratio/33750#33750
-
-### iCloud and other Apple Apps
-* **iCloud Photos Downloader** (https://github.com/icloud-photos-downloader/icloud_photos_downloader)
-    - A command-line tool to download photos from iCloud
-* **OSXPhotos** (https://github.com/RhetTbull/osxphotos)
-    - Python app to work with pictures and associated metadata from Apple Photos on macOS. Also includes a package to provide programmatic access to the Photos library, pictures, and metadata.
 
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
