@@ -14,6 +14,17 @@
 
 ## Miscellaneous
 
+### Design
+
+* **SVG Repo** (https://www.svgrepo.com / https://www.svgfind.com)
+    - Search, explore, edit and share open-licensed SVG vectors
+* **vectormaker** (https://vectormaker.co)
+    - Convert images to SVG vectors, PNG-to-SVG Vectors
+* **Font Repo** (https://www.fontrepo.com)
+    - Free Fonts in TTF format. Download free mono or multi color Font for commercial use.
+
+### Software development
+
 * **Debuggex** (https://www.debuggex.com)
     - Visualize regular expression
 * **crontab guru** (https://crontab.guru)
