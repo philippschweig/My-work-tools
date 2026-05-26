@@ -141,6 +141,8 @@
 * **Karabiner-Elements** (https://karabiner-elements.pqrs.org / https://github.com/pqrs-org/Karabiner-Elements)
     - Karabiner-Elements is a powerful key remapper for macOS.
     - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+* **mas** (https://github.com/mas-cli/mas)
+    - Mac App Store command-line interface
 
 ### Development
 * **Pusher** (https://github.com/noodlewerk/NWPusher)
