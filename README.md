@@ -53,6 +53,9 @@
 
 * **MindNode** (https://www.mindnode.com)
     - Visual brainstorming and mind mapping
+* **Radix** (https://radix.colinkim.dev / https://github.com/colinvkim/Radix)
+    - Modern, extremely fast macOS disk space analyzer.
+    - A fast, native macOS disk space analyzer that helps you find where your storage is going. Scan any folder or volume, explore results with an interactive sunburst chart and file browser, and clean up — all without leaving the app.
 
 ### Useful macOS provided utilities
 * **ColorSync** (https://support.apple.com/de-de/guide/colorsync-utility/welcome/mac)
