@@ -100,6 +100,9 @@
     - needed, if status symbols are much more than can be displayed
     - Alternatives:
         * https://www.macbartender.com/
+* **BetterCmdTab** (https://bettercmdtab.app / https://github.com/rokartur/BetterCmdTab)
+    - Master your Mac’s ⌘Tab
+    - A fast, native window switcher and app launcher for macOS. Free forever, zero telemetry, no subscription.
 * **AltTab** (https://alt-tab-macos.netlify.app / https://github.com/lwouis/alt-tab-macos)
     - AltTab brings the power of Windows alt-tab to macOS
 * **Dock icon spacer** (https://www.projectwizards.net/en/blog/2021/07/macos-dock-finetuning)
